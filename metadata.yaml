@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4000
     wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32101#The-Crimson-Gardenia-and-Other-Tales-of-Adventure
 gutenberg_issued: '2010-04-23'
 gutenberg_type: Text
 identifiers:
